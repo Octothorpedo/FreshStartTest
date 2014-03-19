@@ -47,6 +47,7 @@ gem 'cancan'
 gem 'devise'
 gem 'figaro'
 gem 'mysql2'
+gem 'pg'
 gem 'rolify'
 gem 'simple_form'
 gem 'therubyracer', :platform=>:ruby
